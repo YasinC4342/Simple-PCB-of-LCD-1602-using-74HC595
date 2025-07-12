@@ -18,3 +18,7 @@ Also, i recommend to test in circuit simulation software before buying (you can 
 
 Enjoy with my project :)
 made in KiCAD Software
+
+!!! WARNING !!!
+
+Editing this pcb need my permission to DO it !
