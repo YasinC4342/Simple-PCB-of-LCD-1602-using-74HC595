@@ -11,9 +11,10 @@ list of pieces needed :
 
 # Description about the PCB
 
-This pcb is my first project i made since this year so if this pcb doesn't work, send me a message from this E-Mail :
+This is my first project i made since this year so if this pcb doesn't work, send me a message from this E-Mail :
 cinaryasin4342@gmail.com
 
 Also, i recommend to test in circuit simulation software before buying !!!
 
 Enjoy with my project :)
+made in KiCAD Software
