@@ -14,7 +14,7 @@ list of pieces needed :
 This is my first project i made since this year so if this pcb doesn't work, send me a message from this E-Mail :
 cinaryasin4342@gmail.com
 
-Also, i recommend to test in circuit simulation software before buying (you can buy it in JLCPCB website) !!!
+Also, i recommend to test in circuit simulation software before buying (you can order it in JLCPCB website) !!!
 
 Enjoy with my project :)
 made in KiCAD Software
